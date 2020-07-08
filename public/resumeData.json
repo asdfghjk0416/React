@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Priya Sonawane",
+    "occupation": "Student",
+    "description": " I like learning new skills,experimenting with crazy ideas and reading good fiction novels.",
+    "image": "profilepic.jpg",
+    "bio": "I am currently a undergraduate pursuing Computer Science. I have a passion for coding and programming.I am looking for more oppourtinities and growth. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "priyasanjay0416@gmail.com",
+    "phone": "(716)-208-9351",
+    "address": {
+      "city": "Buffalo",
+      "state": "New York"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1yXVvD8COMgMVe-lcMSgbTltuyF0IuULz/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/priya-sonawane-a0a47a17a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/asdfghjk0416",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University at Buffalo",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2023",
+        "description": "I am a currently a sophmore.In my first year, I learned the basic areas of porgramming from Functional Programming and Object-Oriented Programming to Concurrency and Data Structures."
+      }
+    ],
+    "work": [
+      {
+        "company": "Ministry of Finance(VITAL)-Singapore",
+        "title": "Asset Management Executive",
+        "years": "January 2019- July 2019",
+        "description": " I processed and audited asset transactions in the National Financial System (NFS). I also managed the migration data to new asset management system and set up the new asset management system"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Scala",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "69%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "BootStrap 4",
+        "level": "57%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Light House",
+        "category": "Blog for CS students containing technical articles to opinion pieces about events around us.",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
